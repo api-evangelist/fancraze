@@ -1,8 +1,18 @@
 aid: fancraze
 name: FanCraze
-description: 'FanCraze is a company surfaced as a portfolio company of insight-partners and added to the
-  API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'FanCraze is an International Cricket Council (ICC) officially licensed
+  platform for cricket collectibles, trading, and fantasy gaming, serving more than
+  500,000 cricket fans worldwide. Its flagship products are Grails, a digital
+  collectibles experience where fans pull officially licensed ICC player cards
+  (Common through Legendary), trade them with other fans, and complete themed sets;
+  and Matchday, a free-to-play fantasy cricket game where fans build squads from
+  their collectibles and compete on live challenges tied to real ICC tournaments
+  including Men''s and Women''s Cricket World Cups, T20 World Cups, and U-19 World
+  Cups. The company was surfaced as a portfolio company of Insight Partners and is
+  backed by investors including Tiger Global, Sequoia, Coatue, Dapper Labs, and
+  Coinbase Ventures. FanCraze operates as a consumer (B2C) mobile and web app and
+  does not currently publish a public developer API, SDKs, or API documentation;
+  this profile captures its public web identity and domain-security posture.'
 url: https://raw.githubusercontent.com/api-evangelist/fancraze/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +20,31 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.fancraze.com/favicon.ico
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Consumer
+- Cricket
+- Sports
+- Collectibles
+- Fantasy Sports
+- Gaming
+- Digital Collectibles
+- Trading
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +52,20 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/fancraze-domain-security.yml
 - type: Website
   url: https://www.fancraze.com/
+- type: Support
+  url: https://support.fancraze.com/support/home
+- type: Blog
+  url: https://blog.fancraze.com
+- type: TermsOfService
+  url: https://www.fancraze.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.fancraze.com/privacy-policy
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
