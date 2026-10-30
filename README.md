@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FanCraze is a company surfaced as a portfolio company of insight-partners and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+FanCraze is an International Cricket Council (ICC) officially licensed platform for cricket collectibles, trading, and fantasy gaming, serving more than 500,000 cricket fans worldwide. Its flagship products are Grails, a digital collectibles experience where fans pull officially licensed ICC player cards (Common through Legendary), trade them with other fans, and complete themed sets; and Matchday, a free-to-play fantasy cricket game where fans build squads from their collectibles and compete on live challenges tied to real ICC tournaments including Men's and Women's Cricket World Cups, T20 World Cups, and U-19 World Cups. The company was surfaced as a portfolio company of Insight Partners and is backed by investors including Tiger Global, Sequoia, Coatue, Dapper Labs, and Coinbase Ventures. FanCraze operates as a consumer (B2C) mobile and web app and does not currently publish a public developer API, SDKs, or API documentation; this profile captures its public web identity and domain-security posture.
 
-Backed by: insight-partners — https://www.fancraze.com/
+**Areas:** Company · Consumer · Cricket · Sports · Collectibles · Fantasy Sports · Gaming · Digital Collectibles · Trading
+
+## FanCraze on APIs.io
+
+Everything profiled for FanCraze is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fancraze/](https://apis.io/providers/fancraze/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fancraze Domain Security](https://apis.io/security/fancraze/fancraze-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.fancraze.com/)
+- [Support](https://support.fancraze.com/support/home)
+- [Blog](https://blog.fancraze.com)
+- [Terms of service](https://www.fancraze.com/terms-of-use)
+- [Privacy policy](https://www.fancraze.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.0** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fancraze/](https://apis.io/providers/fancraze/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for FanCraze: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fancraze/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
